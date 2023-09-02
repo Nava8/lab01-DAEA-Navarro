@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\Lab01-02-Sebastian\Lab01-02-Sebastian\obj\Debug\Lab01-02-Sebastian.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Lab01-02-Sebastian\Lab01-02-Sebastian\obj\Debug\Lab01-02-Sebastian.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\source\repos\Lab01-02-Sebastian\Lab01-02-Sebastian\obj\Debug\Lab01_02_Sebastian.Form1.resources
+C:\Users\Usuario\source\repos\Lab01-02-Sebastian\Lab01-02-Sebastian\obj\Debug\Lab01_02_Sebastian.Properties.Resources.resources
+C:\Users\Usuario\source\repos\Lab01-02-Sebastian\Lab01-02-Sebastian\obj\Debug\Lab01-02-Sebastian.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Lab01-02-Sebastian\Lab01-02-Sebastian\obj\Debug\Lab01-02-Sebastian.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Lab01-02-Sebastian\Lab01-02-Sebastian\bin\Debug\Lab01-02-Sebastian.exe.config
+C:\Users\Usuario\source\repos\Lab01-02-Sebastian\Lab01-02-Sebastian\bin\Debug\Lab01-02-Sebastian.exe
+C:\Users\Usuario\source\repos\Lab01-02-Sebastian\Lab01-02-Sebastian\bin\Debug\Lab01-02-Sebastian.pdb
+C:\Users\Usuario\source\repos\Lab01-02-Sebastian\Lab01-02-Sebastian\obj\Debug\Lab01-02-Sebastian.exe
+C:\Users\Usuario\source\repos\Lab01-02-Sebastian\Lab01-02-Sebastian\obj\Debug\Lab01-02-Sebastian.pdb
